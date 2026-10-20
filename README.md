@@ -1,6 +1,6 @@
 ### Hi there, I'm Amiran Syrdybayev 👋
 
-I am a first-year **BSc Mathematics & Statistics** student at the **University of Warwick**, with a strong focus on quantitative modeling, monte carlo simulation, and applied machine learning. I am particularly interested in quantitative research, algorithmic trading, and data-driven problem-solving.
+I am a first-year **BSc Mathematics & Statistics** student at the **University of Warwick**, with a strong focus on quantitative modeling, monte carlo simulation, and applied machine learning. I am particularly interested in quantitative research, algorithmic trading, and problem-solving.
 
 ---
 
